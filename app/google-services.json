@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948802792915",
+    "project_id": "yourmood-5008f",
+    "storage_bucket": "yourmood-5008f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948802792915:android:00f55c02f3048d2e4d5326",
+        "android_client_info": {
+          "package_name": "com.kost4n.yourmood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVj7JV1TfvgvUiU1pMBwjhDED52zwSohU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
